@@ -1,0 +1,30 @@
+{
+  "name": "aapiapi",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "G.Sinnott",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": "15.x"
+  },
+  "description": "inception",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/autr/apiapi.git"
+  },
+  "keywords": [
+    "api",
+    "apiapi",
+    "raspberrypi",
+    "rest",
+    "crud"
+  ],
+  "bugs": {
+    "url": "https://github.com/autr/apiapi/issues"
+  },
+  "homepage": "https://github.com/autr/apiapi#readme",
+  "dependencies": {
+    "jsonschema": "^1.4.0"
+  }
+}
